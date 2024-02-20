@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QDOCINDEX>
+<INDEX url="" title="QDoc Exercise" version="" project="QDocExperiment">
+    <namespace name="" status="active" access="public" module="qdocexperiment">
+        <namespace name="QDocExperiment" href="qdocexperiment.html" status="active" access="public" location="myclass.h" filepath="C:/Users/Risto/Documents/QtProjects/QDocExperiment/src/myclass.h" lineno="6" documented="true" module="QDocExperiment" brief="Contains identifiers related to QDocExperiment">
+            <class name="MyClass" fullname="QDocExperiment::MyClass" href="qdocexperiment-myclass.html" status="active" access="public" location="myclass.h" filepath="C:/Users/Risto/Documents/QtProjects/QDocExperiment/src/myclass.h" lineno="8" documented="true" module="QDocExperiment" brief="Simple nonsensical class implemented for learning about QDoc documentation">
+                <function name="MyClass" fullname="QDocExperiment::MyClass::MyClass" href="qdocexperiment-myclass.html#MyClass" status="active" access="public" documented="true" meta="constructor" signature="MyClass(int value, int *parent)">
+                    <parameter type="int" name="value" default=""/>
+                    <parameter type="int *" name="parent" default=""/>
+                </function>
+                <function name="doSomething" fullname="QDocExperiment::MyClass::doSomething" href="qdocexperiment-myclass.html#doSomething" status="active" access="private" location="myclass.h" filepath="C:/Users/Risto/Documents/QtProjects/QDocExperiment/src/myclass.h" lineno="13" documented="true" meta="plain" type="int" signature="int doSomething(int input)">
+                    <parameter type="int" name="input" default=""/>
+                </function>
+            </class>
+        </namespace>
+        <module name="QDocExperiment" href="qdocexperiment-module.html" status="internal" seen="false" title=""/>
+    </namespace>
+</INDEX>

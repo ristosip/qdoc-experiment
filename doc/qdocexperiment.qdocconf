@@ -1,0 +1,19 @@
+project = QDocExperiment
+description = QDoc Exercise
+
+includepaths += ..
+
+moduleheader = qdocexperiment.h
+
+headerdirs = ../src
+sourcedirs = ../src
+exampledirs = ../examples
+imagedirs = ../images
+
+headers.fileextensions = "*.h"
+sources.fileextensions = "*.cpp"
+examples.fileextensions = "*.cpp *.h"
+examples.imageextensions = "*.png"
+
+outputdir = html
+outputformats = HTML
